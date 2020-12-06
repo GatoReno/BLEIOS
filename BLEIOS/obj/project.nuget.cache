@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nj05qQTvQTKh0Cr4AQ2L7oRzDkrcljeXARcRrXwrw4/nwruESc24LUnfv01sLl2cXhUv0nxsj+Kb1CTF0Ol+6Q==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/Projects/BLEIOS/BLEIOS/BLEIOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
